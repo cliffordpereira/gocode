@@ -3,7 +3,6 @@ package main
 import ("fmt"
         "net/http"
         "encoding/json"
-        "./createList"
        )
 
 func main(){
